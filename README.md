@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bright Azubuike
+# Hi, I'm Bright Azubuike
 
 ## Data Analyst | Public Health Data Analytics | Epidemiologist | Health Insurance
 
@@ -12,7 +12,7 @@ This portfolio highlights projects that demonstrate my ability to clean, analyze
 
 ---
 
-# 🛠 Technical Skills
+# Technical Skills
 
 ### Data Analytics
 - Microsoft Excel
@@ -48,9 +48,9 @@ This portfolio highlights projects that demonstrate my ability to clean, analyze
 
 ---
 
-# 📊 Featured Projects
+# Featured Projects
 
-## 🏥 Healthcare Utilization Dashboard
+## Healthcare Utilization Dashboard
 **Tools:** Power BI
 
 Designed an interactive dashboard to monitor healthcare utilization trends, key performance indicators, and support data-driven healthcare decision-making.
@@ -85,7 +85,7 @@ Built an interactive sales dashboard to analyze revenue, orders, customer segmen
 
 ---
 
-# 📚 Publications
+# Publications
 
 ### Healthcare Utilisation Among Corps Members Under the National Health Insurance Programme in Rivers State, Nigeria
 **Journal:** Texila International Journal of Medicine
@@ -95,7 +95,7 @@ Built an interactive sales dashboard to analyze revenue, orders, customer segmen
 
 ---
 
-# 🎓 Education
+# Education
 
 **Master of Public Health (MPH)**  
 *Specialization: Epidemiology*
@@ -105,7 +105,7 @@ Built an interactive sales dashboard to analyze revenue, orders, customer segmen
 
 ---
 
-# 🌟 Professional Interests
+# Professional Interests
 
 - Healthcare Analytics
 - Public Health Research
@@ -118,7 +118,7 @@ Built an interactive sales dashboard to analyze revenue, orders, customer segmen
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 📧 **Email:** **azubuikeb56@gmail.com**
 
