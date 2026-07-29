@@ -50,13 +50,6 @@ This portfolio highlights projects that demonstrate my ability to clean, analyze
 
 # Featured Projects
 
-## Healthcare Utilization Dashboard
-**Tools:** Power BI
-
-Designed an interactive dashboard to monitor healthcare utilization trends, key performance indicators, and support data-driven healthcare decision-making.
-
----
-
 ## 🚶 Physical Activity Analysis Dashboard
 **Tools:** Python • Plotly • Quarto
 
